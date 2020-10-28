@@ -8,7 +8,6 @@ public class HelloWorld {
 		
 		System.out.println("passo 3.2 - Prática 03 - Aluno Richar F Albor");
 
-
 	}
 
 }

@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("passo 3.2 - Prática 03 - Aluno Richar F Albor");
 		
 		System.out.println("parte 2  - Prática 03 - Aluno Richar F Albor");
+		System.out.println("parte 2 mudança rápita - Prática 03 - Aluno Richar F Albor");
 
 	}
 
